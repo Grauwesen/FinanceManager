@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace FinanceManager.Backend.Enums
+﻿namespace FinanceManager.Backend.Enums
 {
-    class Currency
+    public enum Currency
     {
+        Euro = 0,
+        Dollar = 1,
+        Pound = 2
     }
 }
