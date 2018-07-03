@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FinanceManager
+namespace FinanceManager.Backend.Enums
 {
-    public class Class1
+    class Currency
     {
     }
 }
